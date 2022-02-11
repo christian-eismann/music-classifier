@@ -1,3 +1,8 @@
+# dataset (too big)
+dataset/spectrograms/
+dataset/audio_chunks/
+dataset/genres_original/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
