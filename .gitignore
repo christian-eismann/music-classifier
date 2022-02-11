@@ -4,6 +4,9 @@ dataset/spectrograms/
 dataset/audio_chunks/
 dataset/genres_original/
 
+*.pt
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
