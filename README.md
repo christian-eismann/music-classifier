@@ -4,4 +4,4 @@ The Music Classifier is a small and straight forward Convolutional Neural Networ
 
 ![example-picture](images/output_scaled.jpg)
 
-More detailled informations follows.
+More detailled information to follow.
